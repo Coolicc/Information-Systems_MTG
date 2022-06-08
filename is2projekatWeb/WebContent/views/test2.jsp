@@ -1,0 +1,1 @@
+<img alt="asd" src="<%=request.getContextPath()%>/img/index1.jpg">
